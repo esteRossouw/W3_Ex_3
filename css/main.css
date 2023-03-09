@@ -1,0 +1,88 @@
+html, body, h3, h2, h1{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: grey;
+}
+
+header{
+    width: 100%;
+    height: 60vh;
+    background-color: lightgrey;
+    text-align: left;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: #2b2b2b;
+    color:white;
+    text-align:center;
+}
+
+section{
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.full{
+    height: 80px;
+}
+
+.col-12{
+    width: 100%;
+    height: 80px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin: 1%;
+}
+
+.third{
+    height: 400px;
+}
+
+.col-4{
+    width: 31.33%;
+    height: 330px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin: 1%;
+    float: left;
+}
+
+.forth{
+    height: 400px;
+}
+
+.col-3{
+    width: 23%;
+    height: 330px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin: 1%;
+    float: left;
+}
+
+.half{
+    height: 400px;
+}
+
+.col-6{
+    width: 48%;
+    height: 330px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin: 1%;
+    float: left;
+}
